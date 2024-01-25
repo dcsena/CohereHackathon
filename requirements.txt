@@ -1,0 +1,6 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+cohere==4.44
+pandas==2.2.0
+torch==2.1.2
+streamlit==1.30.0

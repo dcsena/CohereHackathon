@@ -1,0 +1,74 @@
+DYLAN SENA
+
+551-427-3069 - dylan.c.sena@gmail.com - https://linkedin.com/in/dylan-sena - https://medium.com/@dcsena
+EXPERIENCE
+
+Theia Studios 2021-2024
+
+CEO, Co-Founder
+
+- Founded and led a 10-person gaming studio and oversaw all company operations: recruitment, product,
+engineering, fundraising, investor relations, finances, legal, marketing, and HR.
+
+- Led team to successfully ship mobile game, Icons of Theia, and achieved metrics that place game in the top 10% in
+mobile genre with $200k in pre-sale revenue, 63% seven-day return on ad spend, 33% day-1 retention, and 47
+mins average daily playtime.
+
+- Oversaw agile product development process with bi-weekly sprint planning, daily standups, weekly
+cross-functional team meetings, and monthly all-hands.
+
+- Fundraised $2mm on $17mm valuation cap from distinguished VCs and angels. Oversaw and managed company
+budget post-fundraise. Wrote quarterly company reports to all investors.
+
+- Designed and implemented backend game engine and infrastructure to support turn-based gameplay and core
+game features including Al-generated game assets, quests, and offers. Technologies include C#, Step Functions,
+Stable Diffusion, Sagemaker, Lambda, ElasticSearch, DDB, $3, Docker, ChatGPT, and Unity.
+
+DraftBuff 2019-2021
+
+CEO, Co-Founder
+
+- Grew team from original solo founder to 8-person cross-functional organization; recruited exec team, oversaw all
+company operations, and fundraised a $300k pre-seed round from notable esports investors.
+
+- Led team to ship and support the leading social fantasy esports app played by 150k+ users with a 4.7 App Store
+rating and top app metrics including 70% 7-week retention and 50% four-month retention.
+
+- Core developer for full-stack app in React Native and Java on AWS. Technical projects include real-time drafting
+with AWS Step Functions and websockets notifications, event-based processing for weekly waivers and season
+events with SQS and AWS Fargate, and a data ingestion pipeline.
+
+Amazon
+
+SDE II, Alexa for Hospitality, Alexa Personalization; SDE I, AWS Directory Services 2015-2019
+
+- Designed and executed dozens of individual projects including:
+
+- Cross-domain and domainless login: Created an authentication mechanism using Kerberos and
+SpringLDAP to federate on-premises identities into the cloud for Amazon Workspaces with a domainless
+login experience so users across forests would not have to specify the domain they belong to.
+
+- Sports personalization: Created Al MVP for Alexa Personalization team for the Alexa Sports Domain.
+
+- Room Checkout APIs: Created a novel heartbeat system for hotel rooms to sync up guest status with
+Alexa for Hospitality to guarantee guest privacy within a 5-minute SLA.
+
+- Founding developer across multiple teams within Alexa and AWS. Advised manager, PM, and developer team on
+daily operations, design decisions, and product recommendations. Mentored junior developers and interns on
+developer best practices, task assignments, code reviews, and promotion documents.
+
+- Recipient of the Cliff Stoll award, presented by Andy Jassy, then CEO of AWS, for extraordinary customer
+obsession on a cybersecurity incident.
+
+EDUCATION
+University of Michigan 2011-2015
+Dual Majors in Mathematics and Physics, Minor in Computer Science
+- GPA: 3.9/4
+- Summer intern in optics research at Ecole Normale Supérieure de Cachan in Paris
+
+SKILLS AND INTERESTS
+- Languages proficient in: Java, C#, Python, c++, Javascript/Typescript, PowerShell
+- Services and Frameworks proficient in: AWS, ASP.NET, Spring, Oauth, Git, Hibernate, Kerberos, LDAP, Microsoft
+Active Directory, Linux, Windows, Unity, Docker, Firebase, Django, Flask
+- Interests: chess, board games (Gloomhaven currently), playing with my golden retriever, skiing, learning Spanish
+
