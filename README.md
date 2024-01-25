@@ -1,3 +1,6 @@
+# About
+This repo uses Cohere's embedding API and Streamlit to build a job recommendation based on user inputs resume.
+The database used is Cohere's job postings, scraped and parsed and stored in this repo. Scrape was done at 1/24/2024.
 # Environment Setup
 
 ```commandline
